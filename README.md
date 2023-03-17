@@ -1,6 +1,7 @@
 ### Hi there I'm Klavdiya👋 ###
 
 ## Python developer ##
+# I want to be a professional but now I'm a beginner
 
 My tech stack:
 
